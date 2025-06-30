@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=0FDEF7&background=FF377200&center=true&vCenter=true&random=false&width=500&lines=Hola%2C+soy+Dereck+Angeles+%F0%9F%98%8E;Hi+%F0%9F%91%8B%F0%9F%91%80%2C+I'm+Dereck+Angeles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=0FDEF7&background=FF377200&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Jack+Aguilera+%F0%9F%98%8E;Hi+%F0%9F%91%8B%F0%9F%91%80%2C+I'm+Jack+Aguilera)](https://git.io/typing-svg)
 
 <br/>
 
